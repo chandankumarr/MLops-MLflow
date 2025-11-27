@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/chandan/OneDrive/Desktop/MLOps/MLops-MLflow/mlruns/139852942383842841/a5d4be174172426a8efed528c3963c77/artifacts
+end_time: 1764157322246
+entry_point_name: ''
+experiment_id: '139852942383842841'
+lifecycle_stage: active
+run_id: a5d4be174172426a8efed528c3963c77
+run_name: caring-frog-13
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764157310633
+status: 3
+tags: []
+user_id: chandan

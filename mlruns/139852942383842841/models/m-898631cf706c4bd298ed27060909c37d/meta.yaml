@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/chandan/OneDrive/Desktop/MLOps/MLops-MLflow/mlruns/139852942383842841/models/m-898631cf706c4bd298ed27060909c37d/artifacts
+creation_timestamp: 1764155837891
+experiment_id: '139852942383842841'
+last_updated_timestamp: 1764155849489
+model_id: m-898631cf706c4bd298ed27060909c37d
+model_type: null
+name: Random-Forest-Model
+source_run_id: 5b17b142d9f2474cafa7cfa9670e9018
+status: 2
+status_message: null

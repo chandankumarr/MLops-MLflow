@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/chandan/OneDrive/Desktop/MLOps/MLops-MLflow/mlruns/139852942383842841/7fe32732946440f38127a217215702a7/artifacts
+end_time: 1764156557542
+entry_point_name: ''
+experiment_id: '139852942383842841'
+lifecycle_stage: active
+run_id: 7fe32732946440f38127a217215702a7
+run_name: gifted-ram-136
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764156545579
+status: 3
+tags: []
+user_id: chandan

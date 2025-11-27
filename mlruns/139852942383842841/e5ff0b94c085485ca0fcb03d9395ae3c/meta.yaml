@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/chandan/OneDrive/Desktop/MLOps/MLops-MLflow/mlruns/139852942383842841/e5ff0b94c085485ca0fcb03d9395ae3c/artifacts
+end_time: 1764154144897
+entry_point_name: ''
+experiment_id: '139852942383842841'
+lifecycle_stage: active
+run_id: e5ff0b94c085485ca0fcb03d9395ae3c
+run_name: rare-fowl-10
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764154144715
+status: 3
+tags: []
+user_id: chandan

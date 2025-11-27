@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/chandan/OneDrive/Desktop/MLOps/MLops-MLflow/mlruns/139852942383842841/5b17b142d9f2474cafa7cfa9670e9018/artifacts
+end_time: 1764155849518
+entry_point_name: ''
+experiment_id: '139852942383842841'
+lifecycle_stage: active
+run_id: 5b17b142d9f2474cafa7cfa9670e9018
+run_name: mercurial-bird-1000
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764155836959
+status: 3
+tags: []
+user_id: chandan

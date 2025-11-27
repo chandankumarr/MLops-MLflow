@@ -1,0 +1,14 @@
+artifact_uri: file:C:/Users/chandan/OneDrive/Desktop/MLOps/MLops-MLflow/mlruns/0/733c21cbed734df18ddaa06d0b3f6236/artifacts
+end_time: 1764157481831
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 733c21cbed734df18ddaa06d0b3f6236
+run_name: selective-rook-508
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764157481650
+status: 3
+tags: []
+user_id: chandan

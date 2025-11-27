@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/chandan/OneDrive/Desktop/MLOps/MLops-MLflow/mlruns/139852942383842841/68312118fc734d3a91e070d912a1cdab/artifacts
+end_time: 1764155289582
+entry_point_name: ''
+experiment_id: '139852942383842841'
+lifecycle_stage: active
+run_id: 68312118fc734d3a91e070d912a1cdab
+run_name: orderly-bat-290
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764155268252
+status: 3
+tags: []
+user_id: chandan

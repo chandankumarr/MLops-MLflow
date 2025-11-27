@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/chandan/OneDrive/Desktop/MLOps/MLops-MLflow/mlruns/415134515379282224/3c85702bf7614e488894713eeb9ca9cd/artifacts
+end_time: 1764153906188
+entry_point_name: ''
+experiment_id: '415134515379282224'
+lifecycle_stage: active
+run_id: 3c85702bf7614e488894713eeb9ca9cd
+run_name: abrasive-asp-528
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764153905996
+status: 3
+tags: []
+user_id: chandan
