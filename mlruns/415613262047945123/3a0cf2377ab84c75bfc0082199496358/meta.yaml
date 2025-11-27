@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/chandan/OneDrive/Desktop/MLOps/MLops-MLflow/mlruns/415613262047945123/3a0cf2377ab84c75bfc0082199496358/artifacts
+end_time: 1764268003839
+entry_point_name: ''
+experiment_id: '415613262047945123'
+lifecycle_stage: active
+run_id: 3a0cf2377ab84c75bfc0082199496358
+run_name: secretive-goat-148
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764268003713
+status: 3
+tags: []
+user_id: chandan

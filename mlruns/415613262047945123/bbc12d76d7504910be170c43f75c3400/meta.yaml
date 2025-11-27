@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/chandan/OneDrive/Desktop/MLOps/MLops-MLflow/mlruns/415613262047945123/bbc12d76d7504910be170c43f75c3400/artifacts
+end_time: 1764268019740
+entry_point_name: ''
+experiment_id: '415613262047945123'
+lifecycle_stage: active
+run_id: bbc12d76d7504910be170c43f75c3400
+run_name: powerful-steed-24
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764267989795
+status: 3
+tags: []
+user_id: chandan

@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/chandan/OneDrive/Desktop/MLOps/MLops-MLflow/mlruns/415613262047945123/65dc7cfba5b541ec90a142a957bad997/artifacts
+end_time: 1764268003696
+entry_point_name: ''
+experiment_id: '415613262047945123'
+lifecycle_stage: active
+run_id: 65dc7cfba5b541ec90a142a957bad997
+run_name: enthused-sheep-783
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764268003551
+status: 3
+tags: []
+user_id: chandan

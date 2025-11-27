@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/chandan/OneDrive/Desktop/MLOps/MLops-MLflow/mlruns/415613262047945123/c270ab3de3684774ae2b4b2281d5a2e2/artifacts
+end_time: 1764268002805
+entry_point_name: ''
+experiment_id: '415613262047945123'
+lifecycle_stage: active
+run_id: c270ab3de3684774ae2b4b2281d5a2e2
+run_name: nebulous-frog-591
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764268002667
+status: 3
+tags: []
+user_id: chandan

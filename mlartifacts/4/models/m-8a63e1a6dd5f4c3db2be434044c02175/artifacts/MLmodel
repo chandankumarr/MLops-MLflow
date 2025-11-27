@@ -1,0 +1,22 @@
+artifact_path: file:C:/Users/chandan/OneDrive/Desktop/MLOps/MLops-MLflow/mlartifacts/4/models/m-8a63e1a6dd5f4c3db2be434044c02175/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.13.4
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.7.2
+mlflow_version: 3.6.0
+model_id: m-8a63e1a6dd5f4c3db2be434044c02175
+model_size_bytes: 317818
+model_uuid: m-8a63e1a6dd5f4c3db2be434044c02175
+prompts: null
+run_id: 943140ec4c7d40da9fe9d03eea7b17fd
+utc_time_created: '2025-11-27 18:30:47.618676'

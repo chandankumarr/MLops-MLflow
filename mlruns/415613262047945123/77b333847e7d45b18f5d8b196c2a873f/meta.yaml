@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/chandan/OneDrive/Desktop/MLOps/MLops-MLflow/mlruns/415613262047945123/77b333847e7d45b18f5d8b196c2a873f/artifacts
+end_time: 1764268002969
+entry_point_name: ''
+experiment_id: '415613262047945123'
+lifecycle_stage: active
+run_id: 77b333847e7d45b18f5d8b196c2a873f
+run_name: defiant-doe-320
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764268002828
+status: 3
+tags: []
+user_id: chandan

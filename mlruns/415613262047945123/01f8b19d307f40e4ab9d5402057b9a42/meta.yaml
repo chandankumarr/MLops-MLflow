@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/chandan/OneDrive/Desktop/MLOps/MLops-MLflow/mlruns/415613262047945123/01f8b19d307f40e4ab9d5402057b9a42/artifacts
+end_time: 1764268004181
+entry_point_name: ''
+experiment_id: '415613262047945123'
+lifecycle_stage: active
+run_id: 01f8b19d307f40e4ab9d5402057b9a42
+run_name: amusing-gnat-551
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764268004022
+status: 3
+tags: []
+user_id: chandan

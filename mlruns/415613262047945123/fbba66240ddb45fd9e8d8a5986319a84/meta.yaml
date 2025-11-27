@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/chandan/OneDrive/Desktop/MLOps/MLops-MLflow/mlruns/415613262047945123/fbba66240ddb45fd9e8d8a5986319a84/artifacts
+end_time: 1764268003997
+entry_point_name: ''
+experiment_id: '415613262047945123'
+lifecycle_stage: active
+run_id: fbba66240ddb45fd9e8d8a5986319a84
+run_name: wise-crane-131
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764268003865
+status: 3
+tags: []
+user_id: chandan

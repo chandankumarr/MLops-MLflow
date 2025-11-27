@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/chandan/OneDrive/Desktop/MLOps/MLops-MLflow/mlruns/415613262047945123/07c320173b5a4ae481534764ca1d6f0e/artifacts
+end_time: 1764268002643
+entry_point_name: ''
+experiment_id: '415613262047945123'
+lifecycle_stage: active
+run_id: 07c320173b5a4ae481534764ca1d6f0e
+run_name: traveling-elk-395
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764268002491
+status: 3
+tags: []
+user_id: chandan

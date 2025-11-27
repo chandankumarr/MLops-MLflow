@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/chandan/OneDrive/Desktop/MLOps/MLops-MLflow/mlruns/415613262047945123/b2234260c94941e88fb3ee7016585ea0/artifacts
+end_time: 1764268003358
+entry_point_name: ''
+experiment_id: '415613262047945123'
+lifecycle_stage: active
+run_id: b2234260c94941e88fb3ee7016585ea0
+run_name: peaceful-asp-300
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764268003209
+status: 3
+tags: []
+user_id: chandan
